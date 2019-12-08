@@ -16,7 +16,7 @@ This python code can be reused to monitor the observation of any other species u
     
 3. Create export
 
-## Step2: unzip, upload, and import dataset as iNat_monitor:
+## Step 2: unzip, upload, and import dataset as iNat_monitor:
 Upload example: iNat_monitor = pd.read_csv('observations-71449.csv', header=0, parse_dates=True, squeeze=True)
 
 ## Further steps: run python program DMV_bees.ipynb
